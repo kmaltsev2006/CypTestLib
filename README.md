@@ -2,7 +2,7 @@
 
 
 ## Description
-**cyp_test_lib** is library providing utilities for remote SSH management, systemd service control, log processing, and test automation.  
+**CypTestLib** is library providing utilities for remote SSH management, systemd service control, log processing, and test automation.  
 Below is a description of each module, organized by their relevance and usage.
 
 
