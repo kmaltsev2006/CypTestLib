@@ -1,4 +1,4 @@
-# cyp_test_lib spec
+# CypTestLib
 
 
 ## Description
